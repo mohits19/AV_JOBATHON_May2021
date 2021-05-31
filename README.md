@@ -23,3 +23,6 @@ Various Classification algorithms were fit and evaluated on train data. The foll
 
 ## Conclusion
 LightGBM Classifier gave the best scores and hence was chosen for the final submission.
+
+## Private Leaderboard Score
+**0.8727970267 (Rank 320/2639)**
